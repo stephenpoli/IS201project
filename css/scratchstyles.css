@@ -1,0 +1,81 @@
+backgroud div {
+    padding: 5px;
+    border: 5px;
+    margin: n 10px;
+}
+
+.body {
+    top: 130px;
+    bottom: 170px;
+    right: 180px;
+    left: 180px;
+    position: absolute;
+    z-index: 0;
+    text-align: center;
+}
+
+.header {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 100px;
+    position: absolute;
+    background-color: rgb(222, 238, 140);
+}
+
+.footer {
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 150px;
+    position: fixed;
+}
+
+.left {
+    top: 100px;
+    left: 0px;
+    bottom: 170px;
+    width: 180px;
+    position: fixed;
+    background-color: rgb(222, 238, 140);
+}
+
+.right {
+    top: 100px;
+    right: 0px;
+    bottom: 170px;
+    width: 180px;
+    position: fixed;
+    background-color: rgb(222, 238, 140);
+}
+
+.maintitle {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: bold;
+    color: teal;
+}
+
+.sidebars {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.spacing {
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    max-width: 600px;
+    max-height: 500px
+}
+
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkblue;
+    font-size: medium;
+}

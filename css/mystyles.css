@@ -1,0 +1,17 @@
+.teal-header {
+    color: teal;
+    font-size: larger;
+}
+
+h1 {
+    color: darkslategray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.backgroundteal {
+    background-color: teal;
+}
+
+.tealtext {
+    color: teal
+}
